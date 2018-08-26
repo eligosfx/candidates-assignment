@@ -1,2 +1,3 @@
-name: first last
-email: name@email.com
+name: Arkady Landes
+email: arkady.landes@gmail.com
+tel: +972502186096
